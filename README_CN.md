@@ -90,5 +90,4 @@
 ## 九、许可与作者
 
 许可证：GPL-2.0-or-later  
-作者：Zhang Y.H.  
-邮箱：zhangyhcumt@163.com
+作者：Zhang Y.H.
