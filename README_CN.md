@@ -1,6 +1,11 @@
 # 泥石流纵比降计算 QGIS 插件
 
-[英文版说明](README.md)
+![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
+![开发语言](https://img.shields.io/badge/开发语言-Python-3776AB?logo=python&logoColor=white)
+![版本](https://img.shields.io/badge/版本-v1.0.0-2563EB)
+![许可证](https://img.shields.io/badge/许可证-GPL--2.0--or--later-2E7D32)
+
+**[English](README.md) | 简体中文**
 
 用于基于数字高程模型快速计算泥石流主沟道纵比降的 QGIS 插件。
 
