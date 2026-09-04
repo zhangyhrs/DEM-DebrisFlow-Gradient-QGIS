@@ -19,6 +19,18 @@ The longitudinal gradient is calculated as:
 
 `Gradient (‰) = (top elevation - outlet elevation) / main-channel length × 1000`
 
+## Method basis and reference
+
+The overall technical idea of this plugin refers to the paper by Zhang Su, **“基于 DEM 的泥石流流域纵比降的快速计算方法”** (*Rapid calculation method of debris-flow watershed longitudinal gradient based on DEM*). The paper uses DEM-based hydrological analysis to extract the debris-flow main channel and calculates longitudinal gradient from elevation difference and channel length.
+
+The original paper assumes that debris-flow watershed boundaries are already available. Accordingly, the plugin's **DEM + watershed polygons** workflow follows the same general idea. The plugin further extends this workflow with a **DEM + outlet points** mode that automatically delineates watersheds when no watershed polygon data are available.
+
+Reference:
+
+> Zhang Su. 基于 DEM 的泥石流流域纵比降的快速计算方法[J]. 2018(09): 238-239.
+
+This plugin is an independent software implementation and extension; the paper is cited as a methodological reference.
+
 ## Outputs
 
 - Main-channel vector
