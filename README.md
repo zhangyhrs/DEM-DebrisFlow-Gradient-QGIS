@@ -60,6 +60,19 @@ Download the official release ZIP and use **Plugins → Manage and Install Plugi
 - Review automatically delineated watersheds and main channels against terrain, imagery and known drainage conditions.
 - Results are analytical aids and should not replace professional engineering or hazard-assessment judgment.
 
+## Follow and connect
+
+<table>
+  <tr>
+    <th width="50%">WeChat Official Account</th>
+    <th width="50%">Knowledge Planet</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/wechat-official-account.png"><img src="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/wechat-official-account.png" alt="WeChat Official Account" height="150"></a></td>
+    <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/knowledge-planet.jpg"><img src="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/knowledge-planet.jpg" alt="Knowledge Planet" height="150"></a></td>
+  </tr>
+</table>
+
 ## License
 
 GPL-2.0-or-later.
