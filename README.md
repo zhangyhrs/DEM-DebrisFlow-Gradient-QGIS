@@ -2,7 +2,7 @@
 
 ![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
 ![language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
-![release](https://img.shields.io/badge/release-v1.0.0-2563EB)
+![release](https://img.shields.io/badge/release-v1.0.1-2563EB)
 ![License](https://img.shields.io/badge/License-GPL--2.0--or--later-2E7D32)
 
 **English | [简体中文](README_CN.md)**
@@ -54,9 +54,13 @@ After approval, search for **DEM Debris Flow Gradient** in **Plugins → Manage 
 
 ### ZIP installation
 
-Download the official release ZIP and use **Plugins → Manage and Install Plugins → Install from ZIP**.
+Download the official release package from the GitHub Releases page:
 
-> Use the official release package `DEM_DebrisFlow_Gradient_v1.0.0.zip`. GitHub's **Code → Download ZIP** archive is not the QGIS installation package.
+[Download DEM_DebrisFlow_Gradient_v1.0.1.zip](https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS/releases/download/v1.0.1/DEM_DebrisFlow_Gradient_v1.0.1.zip)
+
+Then install it from **Plugins → Manage and Install Plugins → Install from ZIP**.
+
+> Use the official release package above. GitHub's **Code → Download ZIP** archive is not the QGIS installation package.
 
 ## Usage notes
 
