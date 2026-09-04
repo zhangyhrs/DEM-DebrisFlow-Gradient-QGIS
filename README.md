@@ -1,6 +1,11 @@
-# DEM Debris Flow Gradient
+# DEM Debris Flow Gradient for QGIS
 
-[Chinese documentation](README_CN.md)
+![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
+![language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
+![release](https://img.shields.io/badge/release-v1.0.0-2563EB)
+![License](https://img.shields.io/badge/License-GPL--2.0--or--later-2E7D32)
+
+**English | [简体中文](README_CN.md)**
 
 A QGIS plugin for rapid calculation of debris-flow main-channel longitudinal gradient from DEM data.
 
