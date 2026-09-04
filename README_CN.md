@@ -2,7 +2,7 @@
 
 ![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
 ![开发语言](https://img.shields.io/badge/开发语言-Python-3776AB?logo=python&logoColor=white)
-![版本](https://img.shields.io/badge/版本-v1.0.0-2563EB)
+![版本](https://img.shields.io/badge/版本-v1.0.1-2563EB)
 ![许可证](https://img.shields.io/badge/许可证-GPL--2.0--or--later-2E7D32)
 
 **[English](README.md) | 简体中文**
@@ -70,9 +70,13 @@
 
 正式发布后可在 QGIS 插件管理器中搜索 **DEM Debris Flow Gradient** 安装。
 
-也可下载正式发布包 `DEM_DebrisFlow_Gradient_v1.0.0.zip`，在 **插件 → 管理并安装插件 → 从 ZIP 文件安装** 中安装。
+也可从 GitHub Releases 页面直接下载正式插件包：
 
-> 不要使用 GitHub 页面中的“下载源代码压缩包”作为 QGIS 安装包，应使用正式发布页面提供的插件压缩包。
+[下载 DEM_DebrisFlow_Gradient_v1.0.1.zip](https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS/releases/download/v1.0.1/DEM_DebrisFlow_Gradient_v1.0.1.zip)
+
+然后在 **插件 → 管理并安装插件 → 从 ZIP 文件安装** 中安装。
+
+> 不要使用 GitHub 页面中的“下载源代码压缩包”作为 QGIS 安装包，应使用上面的正式发布包。
 
 ## 八、关注与交流
 
