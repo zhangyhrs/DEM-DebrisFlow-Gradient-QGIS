@@ -5,7 +5,7 @@ qgisMaximumVersion=3.99
 description=Batch calculates debris-flow main-channel longitudinal gradient from DEM using watershed polygons or outlet points.
 version=1.0.1
 author=Zhang Y.H.
-email=zhangyhrs@users.noreply.github.com
+email=zhangyhcumt@163.com
 about=DEM Debris Flow Gradient is a QGIS raster-analysis plugin for rapid calculation of debris-flow main-channel longitudinal gradient from DEM data.
     It provides two workflows: DEM with existing watershed polygons, or DEM with outlet points and automatic watershed delineation. The workflow includes depression filling, D8 flow direction, flow accumulation, outlet determination or snapping, watershed extraction, main-channel tracing, elevation-difference calculation and longitudinal-gradient calculation. Outputs include main-channel vectors, automatically delineated watershed polygons in outlet-point mode, and CSV statistics. GeoPackage, Shapefile and GeoJSON are supported. Results should be visually checked before engineering or hazard-assessment use.
     Method reference: Zhang Su, Rapid Calculation Method of Debris-Flow Watershed Longitudinal Gradient Based on DEM, 2018(09): 238-239. This plugin independently implements and extends the workflow, including automatic watershed delineation from outlet points.
@@ -17,7 +17,7 @@ icon=icon.png
 tags=dem,debris flow,hydrology,watershed,terrain analysis,longitudinal gradient
 changelog=1.0.1 - Fixed Qt6 enum compatibility issues reported by the QGIS Plugin Repository.
     Updated button-role, geometry-type, WKB-type and vector-writer error enums to Qt6-compatible scoped enum syntax.
-    Removed the personal contact email from public metadata.
+    Restored the contact email used for QGIS plugin confirmation.
     1.0.0 - First stable public release with watershed-polygon and outlet-point workflows.
 experimental=False
 deprecated=False
