@@ -8,7 +8,8 @@ author=Zhang Y.H.
 email=zhangyhcumt@163.com
 about=DEM Debris Flow Gradient is a QGIS raster-analysis plugin for rapid calculation of debris-flow main-channel longitudinal gradient from DEM data.
     It provides two workflows: DEM + existing watershed polygons, or DEM + outlet points with automatic watershed delineation. The workflow includes depression filling, D8 flow direction, flow accumulation, outlet determination/snapping, watershed extraction, main-channel tracing, elevation-difference calculation and longitudinal-gradient calculation. Outputs include main-channel vectors, automatically delineated watershed polygons in outlet-point mode, and CSV statistics. GeoPackage, Shapefile and GeoJSON are supported. Results should be visually checked before engineering or hazard-assessment use.
-    中文：基于DEM快速计算泥石流主沟道纵比降。支持“DEM+已有流域面”和“DEM+沟口点自动划分流域”两种方式，输出主沟道、自动流域面和统计CSV，并支持GPKG、SHP、GeoJSON。自动结果建议结合影像、等高线及实际沟谷位置复核。
+    Method reference: Zhang Su, “基于 DEM 的泥石流流域纵比降的快速计算方法”, 2018(09):238-239. The paper provides the basic DEM hydrological-analysis idea for main-channel extraction and longitudinal-gradient calculation. This plugin independently implements and extends the workflow, including automatic watershed delineation from outlet points.
+    中文：基于DEM快速计算泥石流主沟道纵比降。支持“DEM+已有流域面”和“DEM+沟口点自动划分流域”两种方式，输出主沟道、自动流域面和统计CSV，并支持GPKG、SHP、GeoJSON。技术思路参考张肃《基于DEM的泥石流流域纵比降的快速计算方法》（2018年第9期，238-239页），并在其基础上增加沟口点自动划分流域等功能。自动结果建议结合影像、等高线及实际沟谷位置复核。
 category=Raster
 homepage=https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS
 tracker=https://github.com/zhangyhrs/DEM-DebrisFlow-Gradient-QGIS/issues
@@ -19,5 +20,6 @@ changelog=1.0.0 - First stable public release.
     Added two workflows: existing watershed polygons and outlet-point automatic watershed delineation.
     Added GeoPackage, Shapefile and GeoJSON vector outputs with Chinese result fields.
     Added custom plugin icon and publication-ready metadata/documentation.
+    Documented the source paper used as a methodological reference.
 experimental=False
 deprecated=False
