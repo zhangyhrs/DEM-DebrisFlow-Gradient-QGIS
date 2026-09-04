@@ -1,4 +1,4 @@
-# DEM 泥石流纵比降计算
+# 泥石流纵比降计算 QGIS 插件
 
 [英文版说明](README.md)
 
@@ -69,7 +69,20 @@
 
 > 不要使用 GitHub 页面中的“下载源代码压缩包”作为 QGIS 安装包，应使用正式发布页面提供的插件压缩包。
 
-## 八、许可与作者
+## 八、关注与交流
+
+<table>
+  <tr>
+    <th width="50%">微信公众号：测绘地信</th>
+    <th width="50%">知识星球：测绘地理信息共享中心</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/wechat-official-account.png"><img src="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/wechat-official-account.png" alt="微信公众号：测绘地信" height="150"></a></td>
+    <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/knowledge-planet.jpg"><img src="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" height="150"></a></td>
+  </tr>
+</table>
+
+## 九、许可与作者
 
 许可证：GPL-2.0-or-later  
 作者：Zhang Y.H.  
