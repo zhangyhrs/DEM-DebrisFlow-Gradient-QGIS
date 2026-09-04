@@ -84,5 +84,4 @@ GPL-2.0-or-later.
 
 ## Author
 
-Zhang Y.H.  
-Email: zhangyhcumt@163.com
+Zhang Y.H.
