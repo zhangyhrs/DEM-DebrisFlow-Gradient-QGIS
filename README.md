@@ -73,12 +73,14 @@ Then install it from **Plugins → Manage and Install Plugins → Install from Z
 
 <table>
   <tr>
-    <th width="50%">WeChat Official Account</th>
-    <th width="50%">Knowledge Planet</th>
+    <th width="33%">WeChat Official Account<br>测绘地信</th>
+    <th width="33%">WeChat Mini Program<br>测绘地信</th>
+    <th width="33%">Knowledge Planet<br>测绘地理信息共享中心</th>
   </tr>
   <tr>
-    <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/wechat-official-account.png"><img src="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/wechat-official-account.png" alt="WeChat Official Account" height="150"></a></td>
-    <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/knowledge-planet.jpg"><img src="https://raw.githubusercontent.com/zhangyhrs/SHP2KMZ_Tool/main/assets/knowledge-planet.jpg" alt="Knowledge Planet" height="150"></a></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" alt="WeChat Official Account" height="150"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-mini-program.jpg" alt="WeChat Mini Program" height="150"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" alt="Knowledge Planet" height="150"></td>
   </tr>
 </table>
 
